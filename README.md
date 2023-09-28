@@ -2,10 +2,16 @@
 
 meu nome e milena carolina
 
-- estou estudando alura 📚
+- estou estudando [alura](https//www.alura.com.br)📚
   
 - estou me desenvolvendo na linguagem javascript 📊
 
 - utilizo esse espaço para minha organizaçao 📏
 
- ### 𝓥𝓞𝓒𝓔 𝓔𝓝𝓣𝓡𝓐𝓡 𝓔𝓜 𝓒𝓞𝓝𝓣𝓐𝓣𝓞 𝓒𝓞𝓜𝓘𝓖𝓞
+ ### 𝔳𝔬𝔠𝔢 𝔢𝔫𝔱𝔯𝔞𝔯 𝔢𝔪 𝔠𝔬𝔫𝔱𝔞𝔱𝔬 𝔠𝔬𝔪𝔦𝔤𝔬 📫
+
+ milena.carolina.santos@escola.pr.gov.br
+ 
+ @lk.miih
+
+![](https://media.tenor.com/oTTrZ7WOzF0AAAAC/love-languages.gif)
